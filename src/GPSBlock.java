@@ -17,7 +17,7 @@ public class GPSBlock {
 	public int getGpsf() {
 		return gpsf;
 	}
-
+ 
 	public void setGpsf(int gpsf) {
 		this.gpsf = gpsf;
 	}
